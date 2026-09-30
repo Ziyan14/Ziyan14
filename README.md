@@ -1,1 +1,3 @@
-# Ziyan14 Hi this is the beginning of greatness. let the internet know.
+Statistics student at UBC building data tools for real businesses.
+📊 ValueLoop: customer retention & LTV analytics (Python, pandas, Streamlit)
+📫 zparbata@student.ubc.ca · [LinkedIn](https://www.linkedin.com/in/ziyanparbatani/)
