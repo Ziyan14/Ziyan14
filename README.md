@@ -1,4 +1,4 @@
-### Hi, I'm Ziyan 👋
+### Hi, I'm Ziyan 
 
 Statistics student at UBC building data tools for real businesses.
 
